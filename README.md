@@ -1,5 +1,7 @@
 # Survey Overview Dashboard
 
+Portfolio project built to simulate real business scenario and analytical tasks I encountered in my work.
+
 ## Purpose
 
 This dashboard provides a comprehensive visual analysis of data professionals based on a global survey. It helps stakeholders:
